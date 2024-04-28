@@ -1,0 +1,7 @@
+C:\Users\seraf\OneDrive\Рабочий стол\20-2--main\Треугольник (20-2-)\bin\Debug\Треугольник (20-2-).exe.config
+C:\Users\seraf\OneDrive\Рабочий стол\20-2--main\Треугольник (20-2-)\bin\Debug\Треугольник (20-2-).exe
+C:\Users\seraf\OneDrive\Рабочий стол\20-2--main\Треугольник (20-2-)\bin\Debug\Треугольник (20-2-).pdb
+C:\Users\seraf\OneDrive\Рабочий стол\20-2--main\Треугольник (20-2-)\obj\Debug\Треугольник (20-2-).csproj.AssemblyReference.cache
+C:\Users\seraf\OneDrive\Рабочий стол\20-2--main\Треугольник (20-2-)\obj\Debug\Треугольник (20-2-).csproj.CoreCompileInputs.cache
+C:\Users\seraf\OneDrive\Рабочий стол\20-2--main\Треугольник (20-2-)\obj\Debug\Треугольник (20-2-).exe
+C:\Users\seraf\OneDrive\Рабочий стол\20-2--main\Треугольник (20-2-)\obj\Debug\Треугольник (20-2-).pdb
