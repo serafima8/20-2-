@@ -1,0 +1,7 @@
+D:\Интерфейсы ООП\Segment\bin\Debug\Segment.exe.config
+D:\Интерфейсы ООП\Segment\bin\Debug\Segment.exe
+D:\Интерфейсы ООП\Segment\bin\Debug\Segment.pdb
+D:\Интерфейсы ООП\Segment\obj\Debug\Segment.csproj.AssemblyReference.cache
+D:\Интерфейсы ООП\Segment\obj\Debug\Segment.csproj.CoreCompileInputs.cache
+D:\Интерфейсы ООП\Segment\obj\Debug\Segment.exe
+D:\Интерфейсы ООП\Segment\obj\Debug\Segment.pdb
